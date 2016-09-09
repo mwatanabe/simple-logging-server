@@ -1,0 +1,20 @@
+{
+  "name": "simple-logging-server",
+  "version": "1.0.0",
+  "description": "A simple server implementation for logging http requests.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mwatanabe/simple-logging-server.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mwatanabe/simple-logging-server/issues"
+  },
+  "homepage": "https://github.com/mwatanabe/simple-logging-server#readme"
+}
